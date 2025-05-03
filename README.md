@@ -12,8 +12,7 @@ cd campus-resource-finder
 Create and activate a virtual environment:
 
 python -m venv venv
-source venv/bin/activate # On Windows: venv\Scripts\activate
-
+source venv/bin/activate
 
 Install dependencies:
 pip install flask
@@ -21,14 +20,10 @@ Initialize the database:
 
 python init_db.py
 
-sql
-Copy
-Edit
-
 Then start the server:
 
 python app.py
 
-Once running, open your browser to http://127.0.0.1:5000 to access the application.
+Once running, open your browser to http:/(localip) to access the application.
 
 Planned improvements include integration with Texas A&M's live bus system, downloadable PDF resource lists, favorite location saving, an admin dashboard for entry management, and broader language and accessibility support.
