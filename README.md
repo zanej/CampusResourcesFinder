@@ -1,9 +1,4 @@
 # CampusResourcesFinder
-A full-stack Leaflet + Flask web app that helps Texas A&amp;M students locate campus resources like dining halls, libraries, counseling, and emergency aid. Includes filters, multilingual support, and real-time directions from user location.
-
-
-# Campus Resource Finder
-
 Campus Resource Finder is a full-stack interactive web application built to help Texas A&M University students quickly locate and navigate to essential campus resources. From food pantries and emergency aid to dining halls, libraries, gyms, and academic buildings, this tool makes finding support services fast, easy, and stigma-free.
 
 The app features a filterable, searchable map interface powered by Leaflet.js, integrated with real-time directions using Leaflet Routing Machine. Students can get walking, biking, or driving directions from their current location to any selected resource. The database includes multilingual support for English and Spanish, with a dynamic language switcher that reloads listings accordingly.
